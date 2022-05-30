@@ -1,2 +1,2 @@
 # nanobar
-Repository til ernanobaråben.dk
+Repository til nanobar.dk
